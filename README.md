@@ -1,0 +1,2 @@
+# JniTest
+Jni test project
